@@ -1,0 +1,25 @@
+# Directories #
+/build/
+/bin/
+target/
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+.classpath
+.settings/
+.loadpath
+.project
+.springBeans
+.factorypath
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+
+
