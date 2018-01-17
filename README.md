@@ -1,4 +1,4 @@
-#About the project
+# About the project
 
 Simple CRUD application with 
 * java 8
