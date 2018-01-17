@@ -11,6 +11,7 @@ Simple CRUD application with
 
 * configure/resolve all the maven dependencies
 * set up/update the java build path to version 1.8 (if not set)
+
 ## If running from IDE
 * Goto `EasyNotesApplication.java` and run as java application
 
