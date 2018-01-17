@@ -17,3 +17,5 @@ Simple CRUD application with
 
 # Testing the application
 * If everthing went right, then you should see in console,```  Tomcat started on port(s): 8080 (http)```
+* use any http client for example chrom's postman to communicate with server
+* Tip : make sure you use header type as 'json' not 'UTF-8'
